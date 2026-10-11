@@ -1,0 +1,19 @@
+{
+  "name": "servitorconnecthashing",
+  "version": "1.0.0",
+  "description": "Background repeated intention and data hasher using Web Workers. Currently, its environment is the browser/a web client.",
+  "keywords": [
+    "servitorconnect",
+    "magic",
+    "intention",
+    "intentions",
+    "repeating"
+  ],
+  "license": "CC0-1.0",
+  "author": "Reden777",
+  "type": "commonjs",
+  "main": "ServitorConnectHashing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
