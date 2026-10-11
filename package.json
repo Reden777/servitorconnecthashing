@@ -1,6 +1,6 @@
 {
   "name": "servitorconnecthashing",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Background repeated intention and data hasher using Web Workers. Currently, its environment is the browser/a web client.",
   "keywords": [
     "servitorconnect",
